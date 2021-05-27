@@ -1,0 +1,12 @@
+{
+  "name": "Reach",
+  "displayName": "Reach",
+  "expo": {
+    "name": "Reach",
+    "slug": "Reach",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
